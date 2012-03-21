@@ -2,3 +2,5 @@
 *
 # Except this file
 !.gitignore
+!/_posts/
+!_posts/*
